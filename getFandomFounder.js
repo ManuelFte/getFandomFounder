@@ -1,7 +1,7 @@
 
 (async () => {
   /* eslint-env browser */
-  /* global fetch wgCityId wgContentLanguage */
+  /* global wgCityId wgContentLanguage */
   'use strict';
 
   const getJSON = async (url) => {
